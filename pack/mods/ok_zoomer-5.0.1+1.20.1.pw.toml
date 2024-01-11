@@ -1,0 +1,17 @@
+name = "ok_zoomer-5.0.1+1.20.1"
+filename = "ok_zoomer-5.0.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/buDX2XKX/ok_zoomer-5.0.1%2B1.20.1.jar"
+hash = "9efc41a292b6e2384d3959e64ca440a75b02dc3551c1a5e544dcd6af20942f38541ed9f66806e36ca79396514d85fef21c390e6e8fc19c80bb840055e5c9ebad"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "aXf2OSFU"
+version = "buDX2XKX"
