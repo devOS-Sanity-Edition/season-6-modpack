@@ -1,0 +1,290 @@
+name = "season-6-modpack"
+mc_version = "1.20.1"
+
+[jar]
+type = "quilt"
+loader = "0.23.0-beta.1"
+installer = "latest"
+
+[variables]
+PORT = "25565"
+
+[launcher]
+eula_args = true
+nogui = true
+
+[[mods]]
+type = "modrinth"
+id = "5ZwdcRci"
+version = "3EgIBnht"
+
+[[mods]]
+type = "modrinth"
+id = "Xbc0uyRg"
+version = "qlA1WuOK"
+
+[[mods]]
+type = "modrinth"
+id = "lfHFW1mp"
+version = "jEeKb7lx"
+
+[[mods]]
+type = "modrinth"
+id = "fRiHVvU7"
+version = "X6In4fQO"
+
+[[mods]]
+type = "modrinth"
+id = "aXf2OSFU"
+version = "buDX2XKX"
+
+[[mods]]
+type = "modrinth"
+id = "mfzaZK3Z"
+version = "Lr5BTYBp"
+
+[[mods]]
+type = "modrinth"
+id = "u5Ic2U1u"
+version = "wPtDzPBH"
+
+[[mods]]
+type = "modrinth"
+id = "QwxR6Gcd"
+version = "6XDJoCks"
+
+[[mods]]
+type = "modrinth"
+id = "wbWoo11W"
+version = "EQYdSyh8"
+
+[[mods]]
+type = "modrinth"
+id = "qbbO7Jns"
+version = "7fjkgVEh"
+
+[[mods]]
+type = "modrinth"
+id = "2RKFTmiB"
+version = "B2L4LeMV"
+
+[[mods]]
+type = "modrinth"
+id = "AANobbMI"
+version = "vgceLbdH"
+
+[[mods]]
+type = "modrinth"
+id = "5aaWibi9"
+version = "e563ycts"
+
+[[mods]]
+type = "modrinth"
+id = "L7Du7ajc"
+version = "I38hyWv7"
+
+[[mods]]
+type = "modrinth"
+id = "jTUiUpsh"
+version = "fQQ8wvKT"
+
+[[mods]]
+type = "modrinth"
+id = "nDHcEOt3"
+version = "Jm5dnfOK"
+
+[[mods]]
+type = "modrinth"
+id = "oJBq6bNW"
+version = "UybfoNN4"
+
+[[mods]]
+type = "modrinth"
+id = "Orvt0mRa"
+version = "yTh7W27h"
+
+[[mods]]
+type = "modrinth"
+id = "fQEb0iXm"
+version = "jiDwS0W1"
+
+[[mods]]
+type = "modrinth"
+id = "1IjD5062"
+version = "Z9FJWLMt"
+
+[[mods]]
+type = "modrinth"
+id = "eNF4Bfla"
+version = "7cR2Lz0f"
+
+[[mods]]
+type = "modrinth"
+id = "l6YH9Als"
+version = "XGW2fviP"
+
+[[mods]]
+type = "modrinth"
+id = "YL57xq9U"
+version = "URWeWMAt"
+
+[[mods]]
+type = "modrinth"
+id = "EsAfCjCV"
+version = "CxnVG86Y"
+
+[[mods]]
+type = "modrinth"
+id = "OCxj9VC8"
+version = "hlS5XQgk"
+
+[[mods]]
+type = "modrinth"
+id = "z7dmZ4nL"
+version = "gyLsjEk8"
+
+[[mods]]
+type = "modrinth"
+id = "iG6ZHsUV"
+version = "mafk58Fm"
+
+[[mods]]
+type = "modrinth"
+id = "j2HhbEE7"
+version = "kWMqVWTm"
+
+[[mods]]
+type = "modrinth"
+id = "siXFh9dn"
+version = "ZKDQu5sd"
+
+[[mods]]
+type = "modrinth"
+id = "fThnVRli"
+version = "oSyOLHYj"
+
+[[mods]]
+type = "modrinth"
+id = "P0Mu4wcQ"
+version = "bbR3MLn5"
+
+[[mods]]
+type = "modrinth"
+id = "fPetb5Kh"
+version = "NovIXDxY"
+
+[[mods]]
+type = "modrinth"
+id = "Q2OqKxDG"
+version = "MoIoigS0"
+
+[[mods]]
+type = "modrinth"
+id = "p7ksDUGo"
+version = "57bbKX1c"
+
+[[mods]]
+type = "modrinth"
+id = "nmDcB62a"
+version = "1FrMon6Q"
+
+[[mods]]
+type = "modrinth"
+id = "lhGA9TYQ"
+version = "Sbew3kXe"
+
+[[mods]]
+type = "modrinth"
+id = "qvIfYCYJ"
+version = "vTQynnGn"
+
+[[mods]]
+type = "modrinth"
+id = "1eAoo2KR"
+version = "3hsIB5yP"
+
+[[mods]]
+type = "modrinth"
+id = "hBVVhStr"
+version = "xa1QAtHc"
+
+[[mods]]
+type = "modrinth"
+id = "ZzjhlDgM"
+version = "vVIvVuGn"
+
+[[mods]]
+type = "modrinth"
+id = "sGmHWmeL"
+version = "LGYOH4RN"
+
+[[mods]]
+type = "modrinth"
+id = "nvQzSEkH"
+version = "QhvPNPdp"
+
+[[mods]]
+type = "modrinth"
+id = "705gWllI"
+version = "BslzSzGd"
+
+[[mods]]
+type = "modrinth"
+id = "EV5wjtvP"
+version = "E6M1VHCx"
+
+[[mods]]
+type = "modrinth"
+id = "yBW8D80W"
+version = "mYl4RvKg"
+
+[[mods]]
+type = "modrinth"
+id = "RLrPqrNI"
+version = "Rt34JLkK"
+
+[[mods]]
+type = "modrinth"
+id = "r0v8vy1s"
+version = "zrRsTCOk"
+
+[[mods]]
+type = "modrinth"
+id = "6gLXkYZq"
+version = "cLUupLck"
+
+[[mods]]
+type = "modrinth"
+id = "mOgUt4GM"
+version = "lEkperf6"
+
+[[mods]]
+type = "modrinth"
+id = "OVuFYfre"
+version = "i3v1Skck"
+
+[[mods]]
+type = "modrinth"
+id = "gvQqBUqZ"
+version = "ZSNsJrPI"
+
+[[mods]]
+type = "modrinth"
+id = "uXXizFIs"
+version = "unerR5MN"
+
+[[mods]]
+type = "modrinth"
+id = "wnEe9KBa"
+version = "sV8lIBhJ"
+
+[[mods]]
+type = "modrinth"
+id = "rcLriA4v"
+version = "HuXAp0GB"
+
+[markdown]
+files = ["README.md"]
+auto_update = false
+
+[options]
