@@ -1,5 +1,5 @@
 name = "season-6-modpack"
-version = "db13dea08caf97c1b668ba0b403fde79c84523ba"
+version = "06d6686e654439a7838b969bdcc920770a00fa79"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,5 +10,5 @@ metafile = false
 preserve = false
 
 [versions]
-minecraft = "1.20.1"
 quilt = "0.23.0-beta.1"
+minecraft = "1.20.1"
