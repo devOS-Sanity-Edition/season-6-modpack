@@ -443,6 +443,11 @@ type = "modrinth"
 id = "creeper-overhaul"
 version = "dVCs4doR"
 
+[[mods]]
+type = "modrinth"
+id = "fabric-seasons"
+version = "uMEzKato"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
