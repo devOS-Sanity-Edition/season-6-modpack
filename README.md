@@ -100,4 +100,5 @@
 | [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)                             | A working voice chat in Minecraft!                                                                                                        | fabric-1.20.1-2.4.32 |
 | [Voice Chat Interaction](https://modrinth.com/mod/voice-chat-interaction)                   | Voice chat skulk sensor activation and warden detection                                                                                   | fabric-1.20.1-1.0.6  |
 | [Architecture Extensions](https://modrinth.com/mod/arch-ex)                                 | A mod that allows you to make more detailed builds with all kinds of new building blocks and shapes.                                      | quIy1Qya             |
+| [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul)                               | A mod which overhauls the vanilla creepers!                                                                                               | dVCs4doR             |
 <!--end:mcman-addons-->

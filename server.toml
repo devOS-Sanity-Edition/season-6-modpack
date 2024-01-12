@@ -438,6 +438,11 @@ type = "modrinth"
 id = "arch-ex"
 version = "quIy1Qya"
 
+[[mods]]
+type = "modrinth"
+id = "creeper-overhaul"
+version = "dVCs4doR"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
