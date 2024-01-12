@@ -323,6 +323,11 @@ type = "modrinth"
 id = "noexpensive"
 version = "3qgbHvhi"
 
+[[mods]]
+type = "modrinth"
+id = "borderless-mining"
+version = "lhrW53q7"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
