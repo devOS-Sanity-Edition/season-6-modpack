@@ -445,6 +445,66 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/TitleChanger-1.10.2.pw.toml"
+hash = "4a62f3436cff105a527ef6f1c911d3a5dc2e148d364d32d549ea57131450d531"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/AxesAreWeapons-1.7.3-fabric-1.20.2.pw.toml"
+hash = "2ee00c0cc0b7d5c099f5b670acd5a7b3c26c6ef866eb38ccb636824ecc3be916"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/polymorph-quilt-0.49.1+1.20.1.pw.toml"
+hash = "757c779e066d3bc785c69bac3df282e150f6eb0d2b735c7583529e446005e448"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/expandedstorage-10.1.1-fabric.pw.toml"
+hash = "2e4705809e652608713b78386d18dacfab1d6e9a779761e907f770cc16a1d6ed"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/chexmix-mod-1.20.1-1.0.2.pw.toml"
+hash = "e5700cfbffcac3c92f941f5ab943468f689cd7c1329e0297520891eeaee813f1"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/chat_heads-0.10.30-fabric-1.20.pw.toml"
+hash = "346a23592dd59a4c44cd9d239d10246e62bfe91ad8d3235da1501ea436b36f3f"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/no-shield-delay-1.0.0.pw.toml"
+hash = "8494e2e2756bc6a0b9b9b8274c08a3fe936b9c5a6e74ccfc5c1bd2c7ff60aaf0"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/blahaj-quilt-1.20.1-0.3.0.pw.toml"
+hash = "d2faf35274447b4be03a85fc92cc29d1d1b5fb79e46e9939a37e4702916a9c1a"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/voicechat-fabric-1.20.1-2.4.32.pw.toml"
+hash = "6fed9e134a4a19231af7c7467ceb89d5ecc33573778a027fd2466ad48e252916"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/vcinteraction-fabric-1.20.1-1.0.6.pw.toml"
+hash = "b550bbe4c50c63274602f99e7f46ee7f05d6e8faefe021e7183f46a36b4be1d1"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
