@@ -373,6 +373,11 @@ type = "modrinth"
 id = "mctitlechanger"
 version = "1.10.2"
 
+[[mods]]
+type = "modrinth"
+id = "axes-are-weapons"
+version = "1.7.3-fabric-1.20.2"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
