@@ -385,11 +385,6 @@ version = "4.2.2"
 
 [[mods]]
 type = "modrinth"
-id = "mctitlechanger"
-version = "1.10.2"
-
-[[mods]]
-type = "modrinth"
 id = "axes-are-weapons"
 version = "1.7.3-fabric-1.20.2"
 
@@ -677,11 +672,6 @@ version = "4.0.4+1.20.1-fabric"
 type = "modrinth"
 id = "terrablender"
 version = "zzgNcnwe"
-
-[[mods]]
-type = "modrinth"
-id = "linsapi"
-version = "1.4.6"
 
 [markdown]
 files = ["README.md"]
