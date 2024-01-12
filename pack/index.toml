@@ -553,8 +553,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/spelunkery-1.20.1-0.3.5-forge.pw.toml"
-hash = "558487f86a2beefc506d574d12f88c01698662dbd4499ad56f7117c28751182c"
+file = "mods/spelunkery-1.20.1-0.3.5-fabric.pw.toml"
+hash = "b3a797bed25e67dc3e5ae32ab286e36c04a756a3afc47e8ab74190b25fd0a4b4"
 metafile = true
 preserve = false
 
