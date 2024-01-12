@@ -348,6 +348,11 @@ type = "modrinth"
 id = "jar-jar-binks"
 version = "4mwjl1tb"
 
+[[mods]]
+type = "modrinth"
+id = "only-hammers-and-excavators"
+version = "Y4RlTy67"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
