@@ -625,6 +625,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/SofterPastels-0.4.0.pw.toml"
+hash = "e88d9580b05ae21a7c10ad30cd0533ebafb98607849160cc61505817da4b5169"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
