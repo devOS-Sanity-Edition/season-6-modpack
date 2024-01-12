@@ -453,6 +453,66 @@ type = "modrinth"
 id = "resourceful-config"
 version = "PlEObkl9"
 
+[[mods]]
+type = "modrinth"
+id = "spelunkery"
+version = "jkZktG9C"
+
+[[mods]]
+type = "modrinth"
+id = "templates-2"
+version = "2.1.1-fabric-1.20.1"
+
+[[mods]]
+type = "modrinth"
+id = "vivecraft"
+version = "1.20.1-1.1.5-fabric"
+
+[[mods]]
+type = "modrinth"
+id = "ping-wheel"
+version = "Y8dEw4Lk"
+
+[[mods]]
+type = "modrinth"
+id = "adorn"
+version = "5.0.1-fabric"
+
+[[mods]]
+type = "modrinth"
+id = "bounced"
+version = "3.1.1-mc1.20"
+
+[[mods]]
+type = "modrinth"
+id = "friends-and-foes"
+version = "fabric-mc1.20.1-2.0.7"
+
+[[mods]]
+type = "modrinth"
+id = "friends-and-foes-flowery-mooblooms-fabric"
+version = "fabric-mc1.20.1-2.0.0"
+
+[[mods]]
+type = "modrinth"
+id = "diagonal-fences"
+version = "v8.1.3-1.20.1-Fabric"
+
+[[mods]]
+type = "modrinth"
+id = "puzzles-lib"
+version = "v8.1.13-1.20.1-Fabric"
+
+[[mods]]
+type = "modrinth"
+id = "carpeted-stairs"
+version = "1.20-1.4"
+
+[[mods]]
+type = "modrinth"
+id = "moonlight"
+version = "fabric_1.20-2.8.82"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
