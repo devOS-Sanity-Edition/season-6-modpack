@@ -505,6 +505,24 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/architecture_extensions-3.5.0+1.20.1.pw.toml"
+hash = "053ed09e4884ad5220e584d0f0ab2d0fcf7d754718b8a83a618065d964c4c326"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/creeperoverhaul-3.0.1-fabric.pw.toml"
+hash = "cb069af7eea6d5d0acfce0a26e59dcea2f387e953317dd2d7093461d71088ce6"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/fabric-seasons-2.3+1.20.pw.toml"
+hash = "f0da3c27a5f220dd2fa1981e409b6ea3401474a8a83e5a1f6b5e88f08c72901e"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
