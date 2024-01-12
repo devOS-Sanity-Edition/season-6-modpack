@@ -338,6 +338,11 @@ type = "modrinth"
 id = "scarves"
 version = "9kVf8i4b"
 
+[[mods]]
+type = "modrinth"
+id = "deathlog"
+version = "V0Hz3q2W"
+
 [markdown]
 files = ["README.md"]
 auto_update = true

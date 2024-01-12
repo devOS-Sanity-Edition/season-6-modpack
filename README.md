@@ -80,4 +80,5 @@
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining)                             | Changes Fullscreen to use a borderless window.                                                                                            | lhrW53q7         |
 | [Light Emitting Diode](https://modrinth.com/mod/led)                                        | Redstone lamps, lamps and more lamps!                                                                                                     | ax1Oy3Bj         |
 | [Scarves](https://modrinth.com/mod/scarves)                                                 | Comfortable dynamic simulated cloth trinkets                                                                                              | 9kVf8i4b         |
+| [DeathLog](https://modrinth.com/mod/deathlog)                                               | Keeps track of the many embarrassing times you died                                                                                       | V0Hz3q2W         |
 <!--end:mcman-addons-->
