@@ -102,4 +102,5 @@
 | [Architecture Extensions](https://modrinth.com/mod/arch-ex)                                 | A mod that allows you to make more detailed builds with all kinds of new building blocks and shapes.                                      | quIy1Qya             |
 | [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul)                               | A mod which overhauls the vanilla creepers!                                                                                               | dVCs4doR             |
 | [Fabric Seasons](https://modrinth.com/mod/fabric-seasons)                                   | A simple mod that adds seasons to the game, dynamically changing biomes as you play.                                                      | uMEzKato             |
+| [Resourceful Config](https://modrinth.com/mod/resourceful-config)                           | Resourceful Config is a mod that allows for developers to make cross-platform configs                                                     | PlEObkl9             |
 <!--end:mcman-addons-->

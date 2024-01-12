@@ -448,6 +448,11 @@ type = "modrinth"
 id = "fabric-seasons"
 version = "uMEzKato"
 
+[[mods]]
+type = "modrinth"
+id = "resourceful-config"
+version = "PlEObkl9"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
