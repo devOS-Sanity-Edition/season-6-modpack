@@ -463,6 +463,16 @@ type = "modrinth"
 id = "dark-enchanting"
 version = "FrLkTZon"
 
+[[mods]]
+type = "modrinth"
+id = "resourceful-lib"
+version = "HGTwQLNx"
+
+[[mods]]
+type = "modrinth"
+id = "botarium"
+version = "a6dUCytc"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
