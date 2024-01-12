@@ -673,6 +673,11 @@ type = "modrinth"
 id = "shulkerboxtooltip"
 version = "4.0.4+1.20.1-fabric"
 
+[[mods]]
+type = "modrinth"
+id = "terrablender"
+version = "zzgNcnwe"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
