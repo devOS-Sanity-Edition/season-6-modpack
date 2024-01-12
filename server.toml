@@ -538,6 +538,56 @@ type = "modrinth"
 id = "softer-pastels"
 version = "0.4.0"
 
+[[mods]]
+type = "modrinth"
+id = "tectonic"
+version = "DRRt4Y5n"
+
+[[mods]]
+type = "modrinth"
+id = "wilder-wild"
+version = "IDrnbI2e"
+
+[[mods]]
+type = "modrinth"
+id = "amplified-nether"
+version = "txd1dBMw"
+
+[[mods]]
+type = "modrinth"
+id = "galosphere"
+version = "WC7WYZmU"
+
+[[mods]]
+type = "modrinth"
+id = "galosphere-trimming"
+version = "Xb1wSvrn"
+
+[[mods]]
+type = "modrinth"
+id = "the-graveyard-fabric"
+version = "PWLzRlBv"
+
+[[mods]]
+type = "modrinth"
+id = "terrestria"
+version = "3Q2d6Vf0"
+
+[[mods]]
+type = "modrinth"
+id = "traverse"
+version = "OLnGR4Nz"
+
+[[mods]]
+type = "modrinth"
+id = "natures-spirit"
+version = "P4YK5b9p"
+
+[[mods]]
+type = "modrinth"
+id = "biome-makeover"
+version = "rsoZ2Iqo"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
