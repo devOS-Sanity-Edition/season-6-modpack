@@ -541,6 +541,18 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/resourcefullib-fabric-1.20.1-2.1.20.pw.toml"
+hash = "7dda8b5b2a9e1111304bba4aff7c451e27abcbe4ecce2a4603aae71c8a81cb17"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/botarium-fabric-1.20.1-2.3.1.pw.toml"
+hash = "8bae3664e3c564407c41b4294e449469e6191772b51179792b2abcade547bc42"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
