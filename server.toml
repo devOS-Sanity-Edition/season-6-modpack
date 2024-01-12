@@ -538,20 +538,55 @@ type = "modrinth"
 id = "softer-pastels"
 version = "0.4.0"
 
+[[mods]]
+type = "modrinth"
 id = "dark-utilities"
 version = "17.0.3"
 
+[[mods]]
+type = "modrinth"
+id = "bookshelf-lib"
+version = "20.1.8"
+
+[[mods]]
+type = "modrinth"
 id = "better-ladders"
 version = "vhz0me3l"
 
+[[mods]]
+type = "modrinth"
 id = "redstonepen"
 version = "1.5.24"
 
+[[mods]]
+type = "modrinth"
 id = "pearfection"
 version = "1.1.1"
 
+[[mods]]
+type = "modrinth"
 id = "do-a-barrel-roll"
 version = "3.3.8+1.20-fabric"
+
+[[mods]]
+type = "modrinth"
+id = "bits-and-chisels"
+version = "2.7.3"
+
+[[mods]]
+type = "modrinth"
+id = "universal-graves"
+version = "3.0.0+1.20.1"
+
+[[mods]]
+type = "modrinth"
+id = "not-enough-animations"
+version = "lODpunva"
+
+[[mods]]
+type = "modrinth"
+id = "inmis"
+version = "2.7.2+1.20.1"
 
 [markdown]
 files = ["README.md"]
