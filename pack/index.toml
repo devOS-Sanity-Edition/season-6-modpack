@@ -529,6 +529,18 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/ad_astra-fabric-1.20.1-1.15.5.pw.toml"
+hash = "99d83b1eff0060ec6a9091399c3185245cc65227fb50b0e88e04ffd8ef0aa259"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/dark-enchanting-1.0.3+1.20.1.pw.toml"
+hash = "d53f3274ff58968685873acdcd730cc460f00bdf75debd57cf55a9e0facd44ff"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
