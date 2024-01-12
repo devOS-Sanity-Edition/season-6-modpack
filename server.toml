@@ -333,6 +333,11 @@ type = "modrinth"
 id = "led"
 version = "ax1Oy3Bj"
 
+[[mods]]
+type = "modrinth"
+id = "scarves"
+version = "9kVf8i4b"
+
 [markdown]
 files = ["README.md"]
 auto_update = true

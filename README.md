@@ -79,4 +79,5 @@
 | [NoExpensive](https://modrinth.com/mod/noexpensive)                                         | The anvil has no expensive restrictions and compatible to any enchantment.                                                                | 3qgbHvhi         |
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining)                             | Changes Fullscreen to use a borderless window.                                                                                            | lhrW53q7         |
 | [Light Emitting Diode](https://modrinth.com/mod/led)                                        | Redstone lamps, lamps and more lamps!                                                                                                     | ax1Oy3Bj         |
+| [Scarves](https://modrinth.com/mod/scarves)                                                 | Comfortable dynamic simulated cloth trinkets                                                                                              | 9kVf8i4b         |
 <!--end:mcman-addons-->
