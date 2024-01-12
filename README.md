@@ -78,4 +78,5 @@
 | [Styled Nicknames](https://modrinth.com/mod/styled-nicknames)                               | Simple, but configurable nicknaming mod allowing your server's players (and admins) to change their nickname with full formatting support | 1.2.1+1.20       |
 | [NoExpensive](https://modrinth.com/mod/noexpensive)                                         | The anvil has no expensive restrictions and compatible to any enchantment.                                                                | 3qgbHvhi         |
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining)                             | Changes Fullscreen to use a borderless window.                                                                                            | lhrW53q7         |
+| [Light Emitting Diode](https://modrinth.com/mod/led)                                        | Redstone lamps, lamps and more lamps!                                                                                                     | ax1Oy3Bj         |
 <!--end:mcman-addons-->
