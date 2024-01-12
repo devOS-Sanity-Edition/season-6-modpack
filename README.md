@@ -81,4 +81,5 @@
 | [Light Emitting Diode](https://modrinth.com/mod/led)                                        | Redstone lamps, lamps and more lamps!                                                                                                     | ax1Oy3Bj         |
 | [Scarves](https://modrinth.com/mod/scarves)                                                 | Comfortable dynamic simulated cloth trinkets                                                                                              | 9kVf8i4b         |
 | [DeathLog](https://modrinth.com/mod/deathlog)                                               | Keeps track of the many embarrassing times you died                                                                                       | V0Hz3q2W         |
+| [Jar Jar Binks Mod](https://modrinth.com/mod/jar-jar-binks)                                 | Adds in Jar Jar Binks to Minecraft                                                                                                        | 4mwjl1tb         |
 <!--end:mcman-addons-->
