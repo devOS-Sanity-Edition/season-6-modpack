@@ -318,6 +318,11 @@ type = "modrinth"
 id = "styled-nicknames"
 version = "1.2.1+1.20"
 
+[[mods]]
+type = "modrinth"
+id = "noexpensive"
+version = "3qgbHvhi"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
