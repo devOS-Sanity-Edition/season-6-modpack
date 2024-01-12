@@ -1,0 +1,17 @@
+name = "redstonepen-1.20.1-fabric-1.5.24"
+filename = "redstonepen-1.20.1-fabric-1.5.24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DwE83ioX/versions/7rBYKrs7/redstonepen-1.20.1-fabric-1.5.24.jar"
+hash = "7fd3c164e33e079e43277b7ece6267e23c07a53604959b2e4a432a792ce29f4f6bea0557e45b84ce6d383c98bd9cf926fe898dd1b9ac33d125a323c25f8065b6"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "redstonepen"
+version = "1.5.24"

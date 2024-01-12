@@ -1,0 +1,17 @@
+name = "InvMove-1.20-0.8.4-Quilt"
+filename = "InvMove-1.20-0.8.4-Quilt.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/REfW2AEX/versions/kqq0UN1u/InvMove-1.20-0.8.4-Quilt.jar"
+hash = "ae877c1bf765f75d0de6b76adf24b5072f2d77ec9f829595097427154b0e282c83ef458c23dd4146b19a79242ea09673fcd59295ee88a9e3b85fe288e60b4778"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "invmove"
+version = "1.20-0.8.4-quilt"

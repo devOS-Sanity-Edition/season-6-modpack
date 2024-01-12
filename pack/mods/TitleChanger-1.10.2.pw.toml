@@ -1,0 +1,17 @@
+name = "TitleChanger-1.10.2"
+filename = "TitleChanger-1.10.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rk1yyL71/versions/1rJPBfBI/TitleChanger-1.10.2.jar"
+hash = "aa940b191595a22151fc7c5a9011bdcd1990990d7515b4a49e92434d736e3d3fb25e8fc0e8f46f80a06e74775c5493808fbfdf591c9c28fe2092445cd65100b1"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "mctitlechanger"
+version = "1.10.2"
