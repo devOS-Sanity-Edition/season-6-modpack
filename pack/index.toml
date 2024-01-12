@@ -535,6 +535,12 @@ metafile = false
 preserve = false
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "d508837f9e7b6ea7a37857e37ebdf52d1935347bc6fd4445b51739ab47e32022"
+metafile = false
+preserve = false
+
+[[files]]
 file = "config/mousewheelie.hjson"
 hash = "3736c53cc1adb653f4d18e172bf896abff0947031e38a119fac27df29d35e773"
 metafile = false
