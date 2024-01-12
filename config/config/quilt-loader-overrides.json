@@ -22,6 +22,17 @@
           }
         }
       ]
+    },
+    {
+      "path": "<mods>/spectrum-1.7.4-deeper-down.jar",
+      "depends": [
+        {
+          "remove": {
+            "id": "fabric-api",
+            "version": ">=0.90.0"
+          }
+        }
+      ]
     }
   ]
 }
