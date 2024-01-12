@@ -398,6 +398,41 @@ type = "modrinth"
 id = "polymorph"
 version = "GcFD377O"
 
+[[mods]]
+type = "modrinth"
+id = "expanded-storage"
+version = "10.1.1+fabric"
+
+[[mods]]
+type = "modrinth"
+id = "chex-mix-mod"
+version = "HCqhjZSr"
+
+[[mods]]
+type = "modrinth"
+id = "chat-heads"
+version = "N6Cgb8gp"
+
+[[mods]]
+type = "modrinth"
+id = "no-shield-delay"
+version = "1.0.0"
+
+[[mods]]
+type = "modrinth"
+id = "blahaj"
+version = "0.3.0+1.20.1"
+
+[[mods]]
+type = "modrinth"
+id = "simple-voice-chat"
+version = "fabric-1.20.1-2.4.32"
+
+[[mods]]
+type = "modrinth"
+id = "voice-chat-interaction"
+version = "fabric-1.20.1-1.0.6"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
