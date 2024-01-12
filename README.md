@@ -84,4 +84,5 @@
 | [Jar Jar Binks Mod](https://modrinth.com/mod/jar-jar-binks)                                 | Adds in Jar Jar Binks to Minecraft                                                                                                        | 4mwjl1tb         |
 | [Only Hammers And Excavators](https://modrinth.com/mod/only-hammers-and-excavators)         | A simple mod that adds various type of hammers & excavators, that mine 3x3 area                                                           | Y4RlTy67         |
 | [Wood you Dye](https://modrinth.com/mod/wyd)                                                | Dyable Wood!                                                                                                                              | ph5bnMLH         |
+| [Botania](https://modrinth.com/mod/botania)                                                 | An innovative natural magic themed tech mod                                                                                               | s3EM29A3         |
 <!--end:mcman-addons-->

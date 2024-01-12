@@ -358,6 +358,11 @@ type = "modrinth"
 id = "wyd"
 version = "ph5bnMLH"
 
+[[mods]]
+type = "modrinth"
+id = "botania"
+version = "s3EM29A3"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
