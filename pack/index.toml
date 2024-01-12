@@ -445,12 +445,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/TitleChanger-1.10.2.pw.toml"
-hash = "4a62f3436cff105a527ef6f1c911d3a5dc2e148d364d32d549ea57131450d531"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/AxesAreWeapons-1.7.3-fabric-1.20.2.pw.toml"
 hash = "2ee00c0cc0b7d5c099f5b670acd5a7b3c26c6ef866eb38ccb636824ecc3be916"
 metafile = true
@@ -795,12 +789,6 @@ preserve = false
 [[files]]
 file = "mods/TerraBlender-fabric-1.20.1-3.0.1.2.pw.toml"
 hash = "575fdcb2ca42ae2ccb9b45955310a8f7beb173eecace2e374e3dc4040fd9b898"
-metafile = true
-preserve = false
-
-[[files]]
-file = "mods/LinsAPI-1.4.6.pw.toml"
-hash = "c7b45b7f945a58a075022b1f1c376be723d0f5efa45b862414fbcaf9190c9451"
 metafile = true
 preserve = false
 

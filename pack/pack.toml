@@ -1,10 +1,10 @@
 name = "season-6-modpack"
-version = "d9ddf717c0f64ed77bc0220911065a70084be29e"
+version = "0dbe02be91ae739183171bf8a1fa186d78870c41"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
-hash = "46e61c882590d93a24650b9983c8dd219de8ab43fb99c6ef716ee24d2963f3eb"
+hash = "7e99bc237608755121932b76450444fcc817ed59c1b5f46b8400d1e9502ba6c7"
 hash-format = "sha256"
 metafile = false
 preserve = false
