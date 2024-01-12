@@ -353,6 +353,11 @@ type = "modrinth"
 id = "only-hammers-and-excavators"
 version = "Y4RlTy67"
 
+[[mods]]
+type = "modrinth"
+id = "wyd"
+version = "ph5bnMLH"
+
 [markdown]
 files = ["README.md"]
 auto_update = true

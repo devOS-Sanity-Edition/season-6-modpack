@@ -83,4 +83,5 @@
 | [DeathLog](https://modrinth.com/mod/deathlog)                                               | Keeps track of the many embarrassing times you died                                                                                       | V0Hz3q2W         |
 | [Jar Jar Binks Mod](https://modrinth.com/mod/jar-jar-binks)                                 | Adds in Jar Jar Binks to Minecraft                                                                                                        | 4mwjl1tb         |
 | [Only Hammers And Excavators](https://modrinth.com/mod/only-hammers-and-excavators)         | A simple mod that adds various type of hammers & excavators, that mine 3x3 area                                                           | Y4RlTy67         |
+| [Wood you Dye](https://modrinth.com/mod/wyd)                                                | Dyable Wood!                                                                                                                              | ph5bnMLH         |
 <!--end:mcman-addons-->
