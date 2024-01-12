@@ -325,6 +325,48 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/cloth-config-11.1.118-fabric.pw.toml"
+hash = "6a6e0880b8a21eaa747e9afa001dcc6ebd99a591ef5923cac5246e136a455671"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/InvMove-1.20-0.8.4-Quilt.pw.toml"
+hash = "3cda45fa32f4aa1b1afb21a66b47cfb10ca56259a1b4a644b42f2d625a9dfcca"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/kibe-1.10.1-BETA+1.20.pw.toml"
+hash = "23b0b58b40ebbb2aef97407b64e6edb9fa11570585c45207a72dd69fdc174918"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/coxinhautilities-1.4.13+1.20.1.pw.toml"
+hash = "1f4c83d61c1211daea9d7114c24604682d5ece26d847d38c4c0c1c7025b30fe8"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/plushables-fabric-mc1.20.1+1.1.3.pw.toml"
+hash = "ad1dff82eecd29d2a97a92f82e2a9c120f60d33c9d00228ca900b580b3fd906c"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/styled-chat-2.2.3+1.20.1.pw.toml"
+hash = "27ffe29f842ef856aa23407c66ca58f5927468073ec1b6d0d47f7af75b5f75ef"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/styled-nicknames-1.2.1+1.20.pw.toml"
+hash = "502c7d8b0d04329d2d2927ac683fe139a39b6a8947d2c54bdd1fe549cf4171a6"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
