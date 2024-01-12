@@ -340,11 +340,6 @@ version = "9kVf8i4b"
 
 [[mods]]
 type = "modrinth"
-id = "deathlog"
-version = "V0Hz3q2W"
-
-[[mods]]
-type = "modrinth"
 id = "jar-jar-binks"
 version = "4mwjl1tb"
 
@@ -367,6 +362,26 @@ version = "s3EM29A3"
 type = "modrinth"
 id = "automobility"
 version = "G97BY8OB"
+
+[[mods]]
+type = "modrinth"
+id = "qkl"
+version = "RYTef2Wb"
+
+[[mods]]
+type = "modrinth"
+id = "patchouli"
+version = "Y6tuH1cn"
+
+[[mods]]
+type = "modrinth"
+id = "azurelib"
+version = "qmNj5M34"
+
+[[mods]]
+type = "modrinth"
+id = "geckolib"
+version = "4.2.2"
 
 [[mods]]
 type = "modrinth"
