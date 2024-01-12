@@ -799,37 +799,43 @@ metafile = true
 preserve = false
 
 [[files]]
-file = 'config\enhanced_bes.properties'
-hash = "51b7c97db8ad0020c6b639e38644f827433551b32edc642f2185be0b0388bf0b"
+file = "config/invmove.json"
+hash = "9d19546fa22fae53acf4bbac765e588b40e11f40a933315f659df2bc806a9878"
 metafile = false
 preserve = false
 
 [[files]]
-file = 'config\iris.properties'
-hash = "092ae9d947375f317a9b8223fc99e3da6e617da4b3a632417248966cab663220"
+file = "config/enhanced_bes.properties"
+hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
 preserve = false
 
 [[files]]
-file = 'config\modernfix-mixins.properties'
-hash = "7bd4898d3ad58681be4bafd5f0339cd439f308ba6213a4d5b40005366d65213e"
+file = "config/quilt-loader-overrides.json"
+hash = "28f23e77ef4fd2e9afd75a5f5acd5066564a64d6f0d8bf826c7b8d755452fda8"
 metafile = false
 preserve = false
 
 [[files]]
-file = 'config\mousewheelie.hjson'
-hash = "2be4b7c37a305bd6864c430d2e751809fafd75fc93505edc2a8168773c1e2a31"
+file = "config/mousewheelie.hjson"
+hash = "3736c53cc1adb653f4d18e172bf896abff0947031e38a119fac27df29d35e773"
 metafile = false
 preserve = false
 
 [[files]]
-file = 'config\quilt-loader-overrides.json'
-hash = "98c88bf42d57432e82f1fc951f3a73a2f2b3f6164b3c7727c09551c9584c9d9a"
+file = "config/modernfix-mixins.properties"
+hash = "f357e2afb2c0249d5083644a21d929c80b948d5ba023ff106d7a17e877b3e7b3"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/iris.properties"
+hash = "e138dce65dd415ff265058c869383e7401e8d99eba177080b98436f5f089dec5"
 metafile = false
 preserve = false
 
 [[files]]
 file = "server.properties"
-hash = "9cc3aa13fe8502aede0ba37baeab3d1b318d5aed9f6907e19664a679894749bf"
+hash = "39e4258600a878bdf34cd90b0808da522992c9382be3e3d384be02dd01552f9b"
 metafile = false
 preserve = false
