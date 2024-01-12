@@ -368,6 +368,11 @@ type = "modrinth"
 id = "automobility"
 version = "G97BY8OB"
 
+[[mods]]
+type = "modrinth"
+id = "mctitlechanger"
+version = "1.10.2"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
