@@ -678,6 +678,11 @@ type = "modrinth"
 id = "terrablender"
 version = "zzgNcnwe"
 
+[[mods]]
+type = "modrinth"
+id = "linsapi"
+version = "1.4.6"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
