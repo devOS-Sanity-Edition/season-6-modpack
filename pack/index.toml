@@ -367,6 +367,66 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/NE-1.20.1-1.9.0.pw.toml"
+hash = "657abfa992c9a63a59ff43f7251d230697becc13c77789d7932751c93cb896f9"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/borderless-mining-1.1.8+1.20.1.pw.toml"
+hash = "e5b60c4231e096306e9df276554bc0d393fe840f072e16b401dedf0bd3b9832a"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/led-1.6.0.pw.toml"
+hash = "ea7d738132cf1997af3846a65a58a57cd3a6cde637c27114ecdfdf3b3c829b6c"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/scarves-1.3.0.pw.toml"
+hash = "5ccfc830886fa10f6ccf857e38fcb6af8b7c9cc7edb543e7b56164d6109e8a45"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/deathlog-0.3.2+1.20.pw.toml"
+hash = "2fe601a0afa193b286b01826878d88cf852575b6929ec6652ff5a46d86edb9f5"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/Jar-Jar-Binks-fabric-1.20.1-1.0.12.pw.toml"
+hash = "83a46fc386629db78049869f2dd064d1a6e9b705f7f37195f58758bb51f30ed1"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/OnlyHammersAndExcavators-1.20.1-0.2-Fabric.pw.toml"
+hash = "6a121a9d5c10342c41adede16e37f31dc807d8001cff048094e6ba921ff9e356"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/wood_you_dye-1.1.0+1.20.1-fabric.pw.toml"
+hash = "1e6ec1fbf7a7adffd18415598e914102d2372a75c93ba7d970c9696b101c0b29"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/Botania-1.20.1-443-FABRIC.pw.toml"
+hash = "3d262be274abbf4b51e2b667ad657c16cdb9575d1b7831be102d55890e040b93"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/automobility-0.4.2+1.20.1-fabric.pw.toml"
+hash = "a205fbcfda4de12d4a0fc4755590ef8b64850917a1ee9542552aff6f6c8b0ca2"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
