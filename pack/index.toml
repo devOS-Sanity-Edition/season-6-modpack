@@ -799,6 +799,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/LinsAPI-1.4.6.pw.toml"
+hash = "c7b45b7f945a58a075022b1f1c376be723d0f5efa45b862414fbcaf9190c9451"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/invmove.json"
 hash = "9d19546fa22fae53acf4bbac765e588b40e11f40a933315f659df2bc806a9878"
 metafile = false
