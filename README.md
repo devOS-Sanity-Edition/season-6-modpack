@@ -104,4 +104,5 @@
 | [Fabric Seasons](https://modrinth.com/mod/fabric-seasons)                                   | A simple mod that adds seasons to the game, dynamically changing biomes as you play.                                                      | uMEzKato             |
 | [Resourceful Config](https://modrinth.com/mod/resourceful-config)                           | Resourceful Config is a mod that allows for developers to make cross-platform configs                                                     | PlEObkl9             |
 | [Ad Astra](https://modrinth.com/mod/ad-astra)                                               | Live long and prosper, Ad Astra!                                                                                                          | QzjRLT8e             |
+| [Dark Enchanting](https://modrinth.com/mod/dark-enchanting)                                 | Select your own enchantments at the cost of more XP!                                                                                      | FrLkTZon             |
 <!--end:mcman-addons-->

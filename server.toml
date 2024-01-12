@@ -458,6 +458,11 @@ type = "modrinth"
 id = "ad-astra"
 version = "QzjRLT8e"
 
+[[mods]]
+type = "modrinth"
+id = "dark-enchanting"
+version = "FrLkTZon"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
