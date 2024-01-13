@@ -1,0 +1,17 @@
+name = "the_bumblezone-7.2.1+1.20.1-quilt"
+filename = "the_bumblezone-7.2.1+1.20.1-quilt.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eA8SXqWL/versions/cnCS5hRr/the_bumblezone-7.2.1%2B1.20.1-quilt.jar"
+hash = "355ddae676772ccd9e1f9d81711ab1e76367f8c2ef6ddd0d3cb117c2bd3645d063197c1b630edfd6cbf4980451576de5103f7a12158d8ac9f4402721d153fb30"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "the-bumblezone-fabric"
+version = "cnCS5hRr"

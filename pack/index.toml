@@ -793,6 +793,18 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/the_bumblezone-7.2.1+1.20.1-quilt.pw.toml"
+hash = "9c48c2a422abecf94afcad42b600bcea77a72ae4572b40f898e8229bf24f62f0"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/Dungeons and Taverns v3.1.0.zip.pw.toml"
+hash = "7488fa23af47364d72834007afed6936d0d0ce2771c200e5f96d86e68249f83f"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
