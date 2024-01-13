@@ -683,6 +683,16 @@ type = "modrinth"
 id = "dungeons-and-taverns"
 version = "fZUvwQng"
 
+[[mods]]
+type = "modrinth"
+id = "highlight"
+version = "4TlGcdsH"
+
+[[mods]]
+type = "modrinth"
+id = "seamless"
+version = "V1KRMYjo"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
