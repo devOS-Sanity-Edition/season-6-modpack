@@ -678,6 +678,11 @@ type = "modrinth"
 id = "the-bumblezone-fabric"
 version = "cnCS5hRr"
 
+[[mods]]
+type = "modrinth"
+id = "dungeons-and-taverns"
+version = "fZUvwQng"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
