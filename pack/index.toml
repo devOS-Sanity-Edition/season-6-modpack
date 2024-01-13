@@ -805,6 +805,18 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/highlight-fabric-1.20-2.0.1.pw.toml"
+hash = "eb4ec39dec89720b7029127dc7758de81462440937ad87250e8f4906f0e8077a"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/seamless-2.2.2-fabric-1.20.1.pw.toml"
+hash = "acd49d5243e1b9d64df9cd76f8554234c8b8fec6d7bd27d6f93d43441a78a062"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
