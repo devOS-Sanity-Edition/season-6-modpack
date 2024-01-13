@@ -40,7 +40,7 @@
         {
           "remove": {
             "id": "fabric-api",
-            "version": ">=0.90.0"
+            "version": ">0.90.0"
           }
         }
       ]
@@ -51,7 +51,7 @@
         {
           "remove": {
             "id": "fabric-api",
-            "version": ">=0.90.0"
+            "version": ">0.90.0"
           }
         }
       ],
@@ -60,6 +60,17 @@
           "remove": {
             "id": "fabric-language-kotlin",
             "version": "<1.10.16"
+          }
+        }
+      ]
+    },
+    {
+      "path": "<mods>/blocky_bass-1.0.18.jar",
+      "depends": [
+        {
+          "remove": {
+            "id": "fabric-api",
+            "version": ">0.90.0"
           }
         }
       ]

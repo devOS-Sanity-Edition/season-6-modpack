@@ -812,7 +812,7 @@ preserve = false
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "28f23e77ef4fd2e9afd75a5f5acd5066564a64d6f0d8bf826c7b8d755452fda8"
+hash = "4b57a44e57e698d91f34d08b738528e490e76b7f19853f2b1305041adeeceef6"
 metafile = false
 preserve = false
 
