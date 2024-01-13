@@ -331,12 +331,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/InvMove-1.20-0.8.4-Quilt.pw.toml"
-hash = "3cda45fa32f4aa1b1afb21a66b47cfb10ca56259a1b4a644b42f2d625a9dfcca"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/kibe-1.10.1-BETA+1.20.pw.toml"
 hash = "23b0b58b40ebbb2aef97407b64e6edb9fa11570585c45207a72dd69fdc174918"
 metafile = true
@@ -796,12 +790,6 @@ preserve = false
 file = "mods/blocky_bass-1.0.18.pw.toml"
 hash = "866d26abb380532fb81dde15813baf124d6249256107fa7b2f664609ea0c29ed"
 metafile = true
-preserve = false
-
-[[files]]
-file = "config/invmove.json"
-hash = "9d19546fa22fae53acf4bbac765e588b40e11f40a933315f659df2bc806a9878"
-metafile = false
 preserve = false
 
 [[files]]
