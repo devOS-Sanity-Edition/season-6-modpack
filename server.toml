@@ -675,11 +675,6 @@ version = "1.0.18"
 
 [[mods]]
 type = "modrinth"
-id = "the-bumblezone-fabric"
-version = "cnCS5hRr"
-
-[[mods]]
-type = "modrinth"
 id = "dungeons-and-taverns"
 version = "fZUvwQng"
 
