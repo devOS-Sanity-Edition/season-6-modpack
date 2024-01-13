@@ -290,11 +290,6 @@ version = "11.1.118+fabric"
 
 [[mods]]
 type = "modrinth"
-id = "invmove"
-version = "1.20-0.8.4-quilt"
-
-[[mods]]
-type = "modrinth"
 id = "kibe"
 version = "1.10.1-BETA+1.20"
 
