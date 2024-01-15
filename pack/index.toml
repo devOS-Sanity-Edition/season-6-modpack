@@ -869,3 +869,9 @@ file = "server.properties"
 hash = "39e4258600a878bdf34cd90b0808da522992c9382be3e3d384be02dd01552f9b"
 metafile = false
 preserve = false
+
+[[files]]
+file = "NoExpensive.json"
+hash = "3d3ddf96ab8df024f0608572787ff3824f4009553e09df8ed8aba4d220d1c000"
+metafile = false
+preserve = false
