@@ -97,8 +97,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/yeet-1.0.0-build.19+mc1.20.1.pw.toml"
-hash = "280fd764b2ea13d8ea26859e195f4468954e5c0568d678b815f40826b14bd3fd"
+file = "mods/yeet-1.1.0-build.23+mc1.20.1.pw.toml"
+hash = "675510d5b128525cd27bbcad54ef5a82b35e5d002dfea0e048439fc5e3806d3a"
 metafile = true
 preserve = false
 
