@@ -865,6 +865,12 @@ metafile = false
 preserve = false
 
 [[files]]
+file = "config/universal-graves/config.json"
+hash = "87eed11d125b85b42eaf4bd602860ce3041b05bd3f3388c66c91a9e768a200f9"
+metafile = false
+preserve = false
+
+[[files]]
 file = "server.properties"
 hash = "39e4258600a878bdf34cd90b0808da522992c9382be3e3d384be02dd01552f9b"
 metafile = false
