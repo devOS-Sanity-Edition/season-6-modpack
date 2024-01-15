@@ -361,12 +361,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/NE-1.20.1-1.9.0.pw.toml"
-hash = "657abfa992c9a63a59ff43f7251d230697becc13c77789d7932751c93cb896f9"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/borderless-mining-1.1.8+1.20.1.pw.toml"
 hash = "e5b60c4231e096306e9df276554bc0d393fe840f072e16b401dedf0bd3b9832a"
 metafile = true
@@ -835,6 +829,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/fabrication-3.4.9+1.20.pw.toml"
+hash = "f1823db438e758ffd8966503a62df1d119b47b220eef49520ce9995d7f81b054"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
@@ -865,6 +865,12 @@ metafile = false
 preserve = false
 
 [[files]]
+file = "config/fabrication/features.ini"
+hash = "5cf437b8bd89136db76cb1a4de179847f40a4af76695f16b4bd6f2c26840c48d"
+metafile = false
+preserve = false
+
+[[files]]
 file = "config/universal-graves/config.json"
 hash = "87eed11d125b85b42eaf4bd602860ce3041b05bd3f3388c66c91a9e768a200f9"
 metafile = false
@@ -873,11 +879,5 @@ preserve = false
 [[files]]
 file = "server.properties"
 hash = "39e4258600a878bdf34cd90b0808da522992c9382be3e3d384be02dd01552f9b"
-metafile = false
-preserve = false
-
-[[files]]
-file = "NoExpensive.json"
-hash = "3d3ddf96ab8df024f0608572787ff3824f4009553e09df8ed8aba4d220d1c000"
 metafile = false
 preserve = false
