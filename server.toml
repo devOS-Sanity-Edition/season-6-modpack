@@ -315,11 +315,6 @@ version = "1.2.1+1.20"
 
 [[mods]]
 type = "modrinth"
-id = "noexpensive"
-version = "3qgbHvhi"
-
-[[mods]]
-type = "modrinth"
 id = "borderless-mining"
 version = "lhrW53q7"
 
@@ -707,6 +702,11 @@ version = "3.1.0"
 type = "modrinth"
 id = "idwtialsimmoedm"
 version = "0.2.0+1.20"
+
+[[mods]]
+type = "modrinth"
+id = "fabrication"
+version = "3.4.9+1.20"
 
 [markdown]
 files = ["README.md"]
