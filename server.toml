@@ -688,6 +688,26 @@ type = "modrinth"
 id = "seamless"
 version = "V1KRMYjo"
 
+[[mods]]
+type = "modrinth"
+id = "aurorasdecorations"
+version = "1.0.0-beta.22+1.20.1"
+
+[[mods]]
+type = "modrinth"
+id = "supplementaries"
+version = "1.20-2.7.23"
+
+[[mods]]
+type = "modrinth"
+id = "twigs"
+version = "3.1.0"
+
+[[mods]]
+type = "modrinth"
+id = "idwtialsimmoedm"
+version = "0.2.0+1.20"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
