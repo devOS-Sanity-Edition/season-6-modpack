@@ -511,8 +511,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/ad_astra-fabric-1.20.1-1.15.5.pw.toml"
-hash = "99d83b1eff0060ec6a9091399c3185245cc65227fb50b0e88e04ffd8ef0aa259"
+file = "mods/ad_astra-fabric-1.20.1-1.15.8.pw.toml"
+hash = "a0a87e9e196e783f96fc98a9447bec37c7230511697fc846ecd49254313b05f4"
 metafile = true
 preserve = false
 
