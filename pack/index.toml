@@ -811,6 +811,30 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/aurorasdecorations-1.0.0-beta.22+1.20.1.pw.toml"
+hash = "e35e2c2dcc5f409761411982040e8275b183033a8ba6a8b8876fc8bbd8e9b60e"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/supplementaries-1.20-2.7.23-fabric.pw.toml"
+hash = "fc776145bfa7f2a0f242a8a715f2bb1c0dfc6063dd576a6a1186030e901b5172"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/twigs-3.1.0-fabric.pw.toml"
+hash = "4b4822a08df9bec326026437e72ef08131c7910ff84a7ef4a27a2b3a37d0e27d"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/idwtialsimmoedm-0.2.0+1.20.pw.toml"
+hash = "6377d050027d0e7283e6296f1b8ec5713033e0c4ddbc12bf2b7543b99a3dfb1e"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
