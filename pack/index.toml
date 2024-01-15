@@ -691,8 +691,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/redstonepen-1.20.1-fabric-1.5.24.pw.toml"
-hash = "2c220deb1a5a82533c7265853acd931330aa325757069dbc150eaefdf7b4c2dc"
+file = "mods/redstonepen-1.20.1-fabric-1.5.28.pw.toml"
+hash = "c376b62a273e541f575e5660058834bd2b9d3a52c03d3d80c37ecf3bc8db909d"
 metafile = true
 preserve = false
 
