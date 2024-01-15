@@ -1,0 +1,17 @@
+name = "pearfection-1.20.1-1.1.1"
+filename = "pearfection-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h77S83wP/versions/KHR0uBvn/pearfection-1.20.1-1.1.1.jar"
+hash = "8738c661be57100cd363020a7bd20c07e78bc78603ceb03c9f92160395e6514749aa17685fbd5d77e0513e79f95b3ff3df4bd1e37f2243c430ea4991e3fe767e"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "pearfection"
+version = "1.1.1"

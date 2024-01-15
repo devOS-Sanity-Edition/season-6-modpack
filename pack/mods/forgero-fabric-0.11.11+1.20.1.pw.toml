@@ -1,0 +1,17 @@
+name = "forgero-fabric-0.11.11+1.20.1"
+filename = "forgero-fabric-0.11.11+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wxKGvopS/versions/jzv2zzpA/forgero-fabric-0.11.11%2B1.20.1.jar"
+hash = "c60466ff72aeeebb7d1dc824bac2dcfab3559bbbd0f46547d292eaee941531556e2ba022dadbd614fb315a25835907ee0e77e15dd83ed348235fabae1f0ec9b8"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "forgero"
+version = "0.11.11+1.20.1"
