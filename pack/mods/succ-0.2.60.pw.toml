@@ -1,0 +1,17 @@
+name = "succ-0.2.60"
+filename = "succ-0.2.60.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L7Du7ajc/versions/I38hyWv7/succ-0.2.60.jar"
+hash = "baca554c13d8f470f23610a5a6f8698d015f623d1db3e0984a5338f810fa2da0facad48d307322fe893262afa8667403793b2677ab53f939d8e90fd6e5028d7f"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "L7Du7ajc"
+version = "I38hyWv7"
