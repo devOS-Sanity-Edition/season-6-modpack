@@ -1,0 +1,17 @@
+name = "CullLessLeaves-1.2.0"
+filename = "CullLessLeaves-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iG6ZHsUV/versions/mafk58Fm/CullLessLeaves-1.2.0.jar"
+hash = "8f56805c53d1e663945175c5dad9492519c5e2aa56163290de8c3e7c2cc2a9c323828cbb5a7198c601910a55093f5172703ba540602ea9fe22dd9c5ff4b83e31"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "iG6ZHsUV"
+version = "mafk58Fm"
