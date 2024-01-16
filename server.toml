@@ -685,11 +685,6 @@ version = "V1KRMYjo"
 
 [[mods]]
 type = "modrinth"
-id = "aurorasdecorations"
-version = "1.0.0-beta.22+1.20.1"
-
-[[mods]]
-type = "modrinth"
 id = "supplementaries"
 version = "1.20-2.7.23"
 
