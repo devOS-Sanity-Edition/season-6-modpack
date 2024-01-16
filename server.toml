@@ -45,11 +45,6 @@ version = "Lr5BTYBp"
 
 [[mods]]
 type = "modrinth"
-id = "u5Ic2U1u"
-version = "wPtDzPBH"
-
-[[mods]]
-type = "modrinth"
 id = "QwxR6Gcd"
 version = "6XDJoCks"
 
@@ -702,6 +697,11 @@ version = "b3NNrxTQ"
 type = "modrinth"
 id = "creeper-multidrop"
 version = "1.0.1"
+
+[[mods]]
+type = "modrinth"
+id = "mouse-tweaks"
+version = "m0Dd8Cjy"
 
 [markdown]
 files = ["README.md"]
