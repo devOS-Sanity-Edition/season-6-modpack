@@ -109,8 +109,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/continuity-3.0.0-beta.4+1.20.1.pw.toml"
-hash = "b78103d4385c2ceaa5577ab136a0dedae242c088987a23f6ef18c7e8f417d480"
+file = "mods/continuity-3.0.0-beta.3+1.20.1.pw.toml"
+hash = "178b2c28142960825799fcc112f2a61cd5511874830b61bf5082068a12839db2"
 metafile = true
 preserve = false
 
@@ -817,14 +817,20 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/creepermultidrop-1.0.1.pw.toml"
-hash = "8d74493203ba1e353630c432ba8390443f58bd81d49cb61bb0592dd89314e5e8"
+file = "mods/creepermultidrop-1.2.0.pw.toml"
+hash = "fb2e213cbdf20dce471ba4be29f25a200d81f030787ef9a7bb63ab51fab8570c"
 metafile = true
 preserve = false
 
 [[files]]
 file = "mods/MouseTweaks-fabric-mc1.20-2.25.pw.toml"
 hash = "f9b9f2eaeccd6a13944dc92d6275583c3689c30d74b1f833a2854054833acc02"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/leashmod-1.0.6.pw.toml"
+hash = "44db87d889f716aa36fa743fdc0f988e4656b809ff5c3534203a78568e609339"
 metafile = true
 preserve = false
 
