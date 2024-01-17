@@ -703,6 +703,11 @@ type = "modrinth"
 id = "mouse-tweaks"
 version = "m0Dd8Cjy"
 
+[[mods]]
+type = "modrinth"
+id = "leashable-players"
+version = "1.0.6"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
