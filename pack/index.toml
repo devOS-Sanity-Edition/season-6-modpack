@@ -499,12 +499,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/ad_astra-fabric-1.20.1-1.15.8.pw.toml"
-hash = "a0a87e9e196e783f96fc98a9447bec37c7230511697fc846ecd49254313b05f4"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/dark-enchanting-1.0.3+1.20.1.pw.toml"
 hash = "d53f3274ff58968685873acdcd730cc460f00bdf75debd57cf55a9e0facd44ff"
 metafile = true
@@ -831,6 +825,12 @@ preserve = false
 [[files]]
 file = "mods/leashmod-1.0.6.pw.toml"
 hash = "44db87d889f716aa36fa743fdc0f988e4656b809ff5c3534203a78568e609339"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/ad_astra-fabric-1.20.1-1.15.10.pw.toml"
+hash = "141e6307b89e7380e1ec91bc2422c65ea906465bac5c22253a999f1c5009b8f1"
 metafile = true
 preserve = false
 

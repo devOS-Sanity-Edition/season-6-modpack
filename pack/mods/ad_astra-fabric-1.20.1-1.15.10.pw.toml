@@ -1,0 +1,17 @@
+name = "ad_astra-fabric-1.20.1-1.15.10"
+filename = "ad_astra-fabric-1.20.1-1.15.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3ufwT9JF/versions/80ZASnFF/ad_astra-fabric-1.20.1-1.15.10.jar"
+hash = "88e7c204aef47ab64ff91cb6baa510a79192d513d81cfbba06770f55266d9229b8ee565b609f017a83c4158c09fbd11dbe45b7c550ddf9ab15d0d08a757aa9c2"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "ad-astra"
+version = "80ZASnFF"
