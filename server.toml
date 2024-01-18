@@ -430,11 +430,6 @@ version = "PlEObkl9"
 
 [[mods]]
 type = "modrinth"
-id = "ad-astra"
-version = "UKU6f8pz"
-
-[[mods]]
-type = "modrinth"
 id = "dark-enchanting"
 version = "FrLkTZon"
 
@@ -707,6 +702,11 @@ version = "m0Dd8Cjy"
 type = "modrinth"
 id = "leashable-players"
 version = "1.0.6"
+
+[[mods]]
+type = "modrinth"
+id = "ad-astra"
+version = "80ZASnFF"
 
 [markdown]
 files = ["README.md"]
