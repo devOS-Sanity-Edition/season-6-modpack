@@ -859,6 +859,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/elytra_physics-fabric-2.0.pw.toml"
+hash = "b1f30832fde7e66a51f74e9895d99c45577df6742d26bf883bac8fff306b8b48"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false

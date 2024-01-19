@@ -1,14 +1,14 @@
 name = "season-6-modpack"
-version = "f48eaebd186b07e40d4be7aaa913b8d48a40730c"
+version = "f9fd86ac2e7a25ced22422f7fce5e4ec2e256ac4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
-hash = "6c365689fc442987ee6fbc945682f0ed8bf5d3ad53654233e576fcaf5f6e6c0e"
+hash = "ca26ca7e27038d74e974bc7b367c573e855d06121c15507759ece9ea91a91e3e"
 hash-format = "sha256"
 metafile = false
 preserve = false
 
 [versions]
-minecraft = "1.20.1"
 quilt = "0.23.0"
+minecraft = "1.20.1"
