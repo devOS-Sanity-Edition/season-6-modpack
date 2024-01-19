@@ -729,6 +729,11 @@ type = "modrinth"
 id = "custom-window-title"
 version = "1.2.0"
 
+[[mods]]
+type = "modrinth"
+id = "elytra-physics"
+version = "2.0"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
