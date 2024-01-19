@@ -708,6 +708,12 @@ type = "modrinth"
 id = "ad-astra"
 version = "80ZASnFF"
 
+[[mods]]
+type = "ghrel"
+repo = "TropheusJ/magic-8-ball"
+tag = "0.1.0"
+asset = "magic_8_ball-${tag}-build.4+mc1.20.1.jar"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
