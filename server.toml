@@ -719,6 +719,11 @@ type = "modrinth"
 id = "shenanigans-devos"
 version = "0.5.14"
 
+[[mods]]
+type = "modrinth"
+id = "canary-safety"
+version = "1.0.6"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
