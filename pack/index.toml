@@ -853,6 +853,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/CustomWindowTitle-Fabric-1.20+v1.2.0.pw.toml"
+hash = "8cc68be28855243fc3ebe97f46c0ec39a76401337b57e5068db5fe4d27c7c0ca"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
@@ -891,6 +897,12 @@ preserve = false
 [[files]]
 file = "config/universal-graves/config.json"
 hash = "87eed11d125b85b42eaf4bd602860ce3041b05bd3f3388c66c91a9e768a200f9"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "215038223b37cd55d510b8b1940fed443273ae6951ecc4ed4159e419c1b89197"
 metafile = false
 preserve = false
 
