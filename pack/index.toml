@@ -685,12 +685,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/graves-3.0.0+1.20.1.pw.toml"
-hash = "65a858adfad47c8a42c57160fb3f269d8066732ab08a7260f043d45f7ee04d85"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/notenoughanimations-fabric-1.7.0-mc1.20.1.pw.toml"
 hash = "0bd96ce78e8a7caf2805a84a3eef7eaafed46236df385a724601791f8a4c3a3b"
 metafile = true
@@ -865,8 +859,20 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/youre-in-grave-danger-2.0.0-beta.6.pw.toml"
+hash = "4f045182f0902484d4b8745558afd6f837eaa312468a9f1ef30addf27cfa6872"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/yigd.json"
+hash = "8b404d9400ad3e0bed7896a6e3a3df3c2b64ee45cbc1d904b1d223b574b56a58"
 metafile = false
 preserve = false
 
@@ -901,8 +907,8 @@ metafile = false
 preserve = false
 
 [[files]]
-file = "config/universal-graves/config.json"
-hash = "87eed11d125b85b42eaf4bd602860ce3041b05bd3f3388c66c91a9e768a200f9"
+file = "config/creeperoverhaul.jsonc"
+hash = "7ed52c7f86be331882f5c94d23c4842a12b206ac40c05ec628303d087124a003"
 metafile = false
 preserve = false
 
