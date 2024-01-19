@@ -585,11 +585,6 @@ version = "2.7.3"
 
 [[mods]]
 type = "modrinth"
-id = "universal-graves"
-version = "3.0.0+1.20.1"
-
-[[mods]]
-type = "modrinth"
 id = "not-enough-animations"
 version = "lODpunva"
 
@@ -733,6 +728,11 @@ version = "1.2.0"
 type = "modrinth"
 id = "elytra-physics"
 version = "2.0"
+
+[[mods]]
+type = "modrinth"
+id = "yigd"
+version = "7YpT3kYv"
 
 [markdown]
 files = ["README.md"]
