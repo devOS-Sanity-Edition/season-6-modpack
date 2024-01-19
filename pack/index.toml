@@ -847,8 +847,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/canary-1.0.6.pw.toml"
-hash = "a654fa747114dd4c68f83b3103200c645454397dc15db253ba367c42b640150c"
+file = "mods/canary-1.0.8.pw.toml"
+hash = "37112a6105f1925ebf3768b5779974100d632f0a35b957910d677405de131172"
 metafile = true
 preserve = false
 
