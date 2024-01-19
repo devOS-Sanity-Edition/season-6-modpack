@@ -722,7 +722,7 @@ version = "0.5.14"
 [[mods]]
 type = "modrinth"
 id = "canary-safety"
-version = "1.0.6"
+version = "1.0.8"
 
 [markdown]
 files = ["README.md"]
