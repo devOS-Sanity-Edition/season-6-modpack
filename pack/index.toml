@@ -835,6 +835,24 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/magic_8_ball-0.1.0-build.4+mc1.20.1.pw.toml"
+hash = "88355216d03fb0e196cdd6405f4180250872d71964e7783437da020ebd1a8a69"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/shenanigans-0.5.14.pw.toml"
+hash = "62b3a4960aa795c9cff4ae3089d479e5bb774898429b6852310f740d7878a0ad"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/canary-1.0.6.pw.toml"
+hash = "a654fa747114dd4c68f83b3103200c645454397dc15db253ba367c42b640150c"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false

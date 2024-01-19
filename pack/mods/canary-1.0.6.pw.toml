@@ -1,0 +1,17 @@
+name = "canary-1.0.6"
+filename = "canary-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iCRO1YNs/versions/8wVijleQ/canary-1.0.6.jar"
+hash = "e9b274cccfc4b1c7666278bf710596bcc323140a35c1af527077456204fb7e9b1ce29cfacea47c4c5babe7466bf48cffb5058c51a147c554688a984940a468af"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "canary-safety"
+version = "1.0.6"
