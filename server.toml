@@ -724,6 +724,11 @@ type = "modrinth"
 id = "canary-safety"
 version = "1.0.8"
 
+[[mods]]
+type = "modrinth"
+id = "custom-window-title"
+version = "1.2.0"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
