@@ -866,7 +866,7 @@ preserve = false
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "5cf437b8bd89136db76cb1a4de179847f40a4af76695f16b4bd6f2c26840c48d"
+hash = "a61c19e5a804e66ce5116122866a26d60ba436b7b2f52b2a55b66dcd901f7ac7"
 metafile = false
 preserve = false
 
