@@ -1,0 +1,13 @@
+name = "magic_8_ball-0.1.0-build.6+mc1.20.1"
+filename = "magic_8_ball-0.1.0-build.6+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TropheusJ/magic-8-ball/releases/download/0.1.0-build.6/magic_8_ball-0.1.0-build.6+mc1.20.1.jar"
+hash = "e0700ffba0162b97fccf25135200ec8c79e1a2d069378e4c45b37a950ff61bd4"
+hash-format = "sha256"
+mode = "url"
+
+[option]
+optional = false
+default = false

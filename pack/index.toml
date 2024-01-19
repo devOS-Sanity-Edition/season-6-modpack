@@ -835,8 +835,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/magic_8_ball-0.1.0-build.4+mc1.20.1.pw.toml"
-hash = "88355216d03fb0e196cdd6405f4180250872d71964e7783437da020ebd1a8a69"
+file = "mods/magic_8_ball-0.1.0-build.6+mc1.20.1.pw.toml"
+hash = "0dfa1d162c8bcf7c66db1dffa41293786bd695b6ce9741cbfdce8f7378d8971e"
 metafile = true
 preserve = false
 
