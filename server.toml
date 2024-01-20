@@ -734,6 +734,11 @@ type = "modrinth"
 id = "yigd"
 version = "7YpT3kYv"
 
+[[mods]]
+type = "modrinth"
+id = "wilder-wild"
+version = "2.2.3-mc1.20.1"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
