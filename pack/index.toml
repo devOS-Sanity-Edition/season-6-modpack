@@ -865,6 +865,18 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/WilderWild-2.2.3-Fabric+1.20.1.pw.toml"
+hash = "99b1adc8b809fc9032f108786716e6311c773f1703bf8a3f1ff81e3ef4b4d5b5"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/QDResLoader-2.0.1.pw.toml"
+hash = "6e0fafb69cca9f0820569f45d5cef67cabd9c643f497712ccee4ddfc0f48bbfd"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
@@ -921,5 +933,11 @@ preserve = false
 [[files]]
 file = "server.properties"
 hash = "39e4258600a878bdf34cd90b0808da522992c9382be3e3d384be02dd01552f9b"
+metafile = false
+preserve = false
+
+[[files]]
+file = "resources/data/supplementaries/tags/worldgen/biome/has_way_signs.json"
+hash = "92a71391f0fdc53ef735be78b0860888c0ce83279383c5886537e0be96b3375a"
 metafile = false
 preserve = false
