@@ -1,0 +1,17 @@
+name = "chat_heads-0.10.30-fabric-1.20"
+filename = "chat_heads-0.10.30-fabric-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/N6Cgb8gp/chat_heads-0.10.30-fabric-1.20.jar"
+hash = "3bb01baf649cd874318d078392cd185b9cd27f7d102845d894d3e6d6901749ca5741be840728dc375b3fdeb26c82831c5ae425fbfebe7563b7a5932b1c030435"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "chat-heads"
+version = "N6Cgb8gp"
