@@ -736,11 +736,6 @@ version = "7YpT3kYv"
 
 [[mods]]
 type = "modrinth"
-id = "wilder-wild"
-version = "2.2.3-mc1.20.1"
-
-[[mods]]
-type = "modrinth"
 id = "qdresloader"
 version = "2.0.1"
 
