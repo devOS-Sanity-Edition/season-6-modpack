@@ -1,0 +1,17 @@
+name = "galospheretrimming-1.20.1-1.0.0-quilt"
+filename = "galospheretrimming-1.20.1-1.0.0-quilt.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pzuy21SU/versions/Xb1wSvrn/galospheretrimming-1.20.1-1.0.0-quilt.jar"
+hash = "d6dced0160a8209f7f4eaf50c1468dbea943c29a52c12c11db5e2042d5d54ab602ab631ac306b324c3db79d3473905aeb4245a25b075960825fe4a238d25fd4a"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "galosphere-trimming"
+version = "Xb1wSvrn"

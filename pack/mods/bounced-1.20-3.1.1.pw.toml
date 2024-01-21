@@ -1,0 +1,17 @@
+name = "bounced-1.20-3.1.1"
+filename = "bounced-1.20-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2mlOZXZr/versions/9ZJ4TZu2/bounced-1.20-3.1.1.jar"
+hash = "1a3ca380fcc679b62f1a947305395072f3ce3e79b2bde79a3854e2ca34ec11a673923e8bd063b82092803abd2cf84b8ab1d5f4674428be9a50fce565fb07a2e9"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "bounced"
+version = "3.1.1-mc1.20"
