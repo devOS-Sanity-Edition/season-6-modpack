@@ -1,0 +1,17 @@
+name = "aurorasdecorations-1.0.0-beta.22+1.20.1"
+filename = "aurorasdecorations-1.0.0-beta.22+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GOqAnOfW/versions/a5azBPEi/aurorasdecorations-1.0.0-beta.22%2B1.20.1.jar"
+hash = "400863077f08aa5f511e0985804fa0425ccfa7163bde0614ce0e8fb463ee230d509bc10c7350375ac27553fc1416430cc2b148cf7dd295eadfc980645a8932d2"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "aurorasdecorations"
+version = "1.0.0-beta.22+1.20.1"
