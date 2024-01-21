@@ -865,6 +865,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/InventorySorter-1.9.0-1.20.pw.toml"
+hash = "fd20940824115a9fd807a6093326cc066f2415d70b8c92f13eef3ae814ae2260"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
