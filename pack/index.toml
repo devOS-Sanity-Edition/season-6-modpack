@@ -935,3 +935,9 @@ file = "resources/data/supplementaries/tags/worldgen/biome/has_way_signs.json"
 hash = "92a71391f0fdc53ef735be78b0860888c0ce83279383c5886537e0be96b3375a"
 metafile = false
 preserve = false
+
+[[files]]
+file = "resources/data/ad_astra_platform/tags/items/steel_ingots.json"
+hash = "e602483ad185835bdaad93717a611f7d1e4c446a856a3f1f413e4b6901baf230"
+metafile = false
+preserve = false
