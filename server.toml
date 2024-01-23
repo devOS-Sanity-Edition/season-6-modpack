@@ -764,6 +764,11 @@ type = "modrinth"
 id = "estrogen"
 version = "goCaR7X9"
 
+[[mods]]
+type = "modrinth"
+id = "silk-spawners"
+version = "xnQ3Oilt"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
