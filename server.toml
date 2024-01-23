@@ -744,6 +744,11 @@ type = "modrinth"
 id = "leaves-be-gone"
 version = "I6xyij66"
 
+[[mods]]
+type = "modrinth"
+id = "lighty"
+version = "uSb6CMnH"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
