@@ -774,6 +774,11 @@ type = "modrinth"
 id = "expansive-lighting"
 version = "4dP22SnW"
 
+[[mods]]
+type = "modrinth"
+id = "estrogen"
+version = "goCaR7X9"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
