@@ -901,12 +901,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/quickstack-1.0.2+1.20.1.pw.toml"
-hash = "a55fb60d8d29554899b805b993ba21d8c89c37283fcd01fd42eac2e912033fa0"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/expansive-lighting-mc1.20.1-1.0.0+build.6.pw.toml"
 hash = "0fbebb739221a4c513363d6c94decd94a207db4ce5b7e1d5bb7962ee8aa8784b"
 metafile = true
