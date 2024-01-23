@@ -415,11 +415,6 @@ version = "dVCs4doR"
 
 [[mods]]
 type = "modrinth"
-id = "fabric-seasons"
-version = "uMEzKato"
-
-[[mods]]
-type = "modrinth"
 id = "resourceful-config"
 version = "PlEObkl9"
 
