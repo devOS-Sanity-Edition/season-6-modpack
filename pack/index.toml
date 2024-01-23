@@ -913,6 +913,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/Estrogen-4.0.2-fabric.pw.toml"
+hash = "8f86cb5507225edc8effc263d123df99b642bc1a7fa2d5cc620d0723d9a9a601"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
