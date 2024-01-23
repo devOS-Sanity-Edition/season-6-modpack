@@ -22,8 +22,8 @@
     "dropOnGroundSlots": []
   },
   "expConfig": {
-    "dropBehaviour": "VANILLA",
-    "dropPercentage": 50,
+    "dropBehaviour": "PERCENTAGE",
+    "dropPercentage": 100,
     "keepPercentage": 0
   },
   "graveConfig": {
