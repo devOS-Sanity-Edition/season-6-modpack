@@ -749,6 +749,11 @@ type = "modrinth"
 id = "lighty"
 version = "uSb6CMnH"
 
+[[mods]]
+type = "modrinth"
+id = "cc-tweaked"
+version = "Scean3uO"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
