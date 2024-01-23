@@ -759,6 +759,11 @@ type = "modrinth"
 id = "cosmetic-armor"
 version = "wPdj2uLD"
 
+[[mods]]
+type = "modrinth"
+id = "chipped"
+version = "yXxHBIer"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
