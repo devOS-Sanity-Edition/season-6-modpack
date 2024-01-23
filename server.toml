@@ -754,6 +754,11 @@ type = "modrinth"
 id = "cc-tweaked"
 version = "Scean3uO"
 
+[[mods]]
+type = "modrinth"
+id = "cosmetic-armor"
+version = "wPdj2uLD"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
