@@ -1,0 +1,17 @@
+name = "spectrum-1.7.4-deeper-down"
+filename = "spectrum-1.7.4-deeper-down.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/Pg5efHEv/spectrum-1.7.4-deeper-down.jar"
+hash = "276a80bf123ade56165236a325eeb66bbe8547142672d8c28124ccad90fbbae1fe4d482ced363c77ffee3bb1b39273bef7bc7549e2ed02544ec0f85c93b92f83"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "spectrum"
+version = "1.7.4"

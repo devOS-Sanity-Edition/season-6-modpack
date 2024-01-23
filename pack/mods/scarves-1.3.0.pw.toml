@@ -1,0 +1,17 @@
+name = "scarves-1.3.0"
+filename = "scarves-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vhY4Cys8/versions/9kVf8i4b/scarves-1.3.0.jar"
+hash = "3a15be06e966088297567cf584dcaa93bd8c291e207c66941c4b6ad2b9c131afd51de6a54cde2e310b382b32ff62bef72dd3008f494530cff7e97302e6eb5ea0"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "scarves"
+version = "9kVf8i4b"
