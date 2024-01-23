@@ -764,6 +764,11 @@ type = "modrinth"
 id = "athena-ctm"
 version = "Jy8DnzcO"
 
+[[mods]]
+type = "modrinth"
+id = "quickstack"
+version = "Q0IBH3hq"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
