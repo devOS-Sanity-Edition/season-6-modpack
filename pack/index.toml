@@ -901,6 +901,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/wraith-silkspawners-1.1.3.pw.toml"
+hash = "6f16a048c02387792f35eef22df7b39a8df11a7c3c9f363a27f8052357972424"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
@@ -908,7 +914,7 @@ preserve = false
 
 [[files]]
 file = "config/yigd.json"
-hash = "8b404d9400ad3e0bed7896a6e3a3df3c2b64ee45cbc1d904b1d223b574b56a58"
+hash = "3250bc3336d7ddfdeb9b32259e89ab73323317d689c61ec84167662fb4ebaba3"
 metafile = false
 preserve = false
 
@@ -938,7 +944,7 @@ preserve = false
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "a61c19e5a804e66ce5116122866a26d60ba436b7b2f52b2a55b66dcd901f7ac7"
+hash = "62865ff95409868eefb153164bf90f3f2315b2a86c17a3409a2ced8e43c4212b"
 metafile = false
 preserve = false
 
