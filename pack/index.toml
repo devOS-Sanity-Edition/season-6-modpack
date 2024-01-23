@@ -913,6 +913,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/xlpackets-1.0.4-1.20.x.pw.toml"
+hash = "4362d17ca1066461d884235989559b221b86317fe7bae48b4225ea695dcfc44f"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
