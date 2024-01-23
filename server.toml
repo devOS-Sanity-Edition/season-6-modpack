@@ -769,6 +769,11 @@ type = "modrinth"
 id = "silk-spawners"
 version = "xnQ3Oilt"
 
+[[mods]]
+type = "modrinth"
+id = "quickstack"
+version = "1.0.1-beta1+1.20.1"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
