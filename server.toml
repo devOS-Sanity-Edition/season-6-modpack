@@ -794,6 +794,11 @@ type = "modrinth"
 id = "athena-ctm"
 version = "Jy8DnzcO"
 
+[[mods]]
+type = "modrinth"
+id = "modelfix"
+version = "1.14"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
