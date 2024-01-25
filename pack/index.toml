@@ -937,6 +937,12 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/modelfix-1.14-fabric.pw.toml"
+hash = "9cddd48981cfb275087181a3fbc45f11a1f40c0749ab8cd93156d8408abca2ff"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/yigd.json"
 hash = "3250bc3336d7ddfdeb9b32259e89ab73323317d689c61ec84167662fb4ebaba3"
 metafile = false
@@ -962,7 +968,7 @@ preserve = false
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "4b57a44e57e698d91f34d08b738528e490e76b7f19853f2b1305041adeeceef6"
+hash = "1a296efa58c928f5fb1605e9b15e9f7122804b34d91504ab672c8e138d5e7d03"
 metafile = false
 preserve = false
 

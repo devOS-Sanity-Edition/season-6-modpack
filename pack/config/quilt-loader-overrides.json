@@ -35,42 +35,23 @@
       ]
     },
     {
-      "path": "<mods>/WilderWild-2.2.3-Fabric+1.20.1.jar",
-      "depends": [
-        {
-          "remove": {
-            "id": "fabric-api",
-            "version": ">0.90.0"
-          }
-        }
-      ]
-    },
-    {
-      "path": "<mods>/WilderWild-2.2.3-Fabric+1.20.1.jar!/META-INF/jars/frozenlib-1.5.4-mc1.20.1.jar",
-      "depends": [
-        {
-          "remove": {
-            "id": "fabric-api",
-            "version": ">0.90.0"
-          }
-        }
-      ],
-      "breaks": [
-        {
-          "remove": {
-            "id": "fabric-language-kotlin",
-            "version": "<1.10.16"
-          }
-        }
-      ]
-    },
-    {
       "path": "<mods>/blocky_bass-1.0.18.jar",
       "depends": [
         {
           "remove": {
             "id": "fabric-api",
             "version": ">0.90.0"
+          }
+        }
+      ]
+    },
+    {
+      "path": "<mods>/extendeddrawersaddon-1.0.2.jar",
+      "depends": [
+        {
+          "remove": {
+            "id": "fabric-api",
+            "version": ">0.90.7"
           }
         }
       ]
