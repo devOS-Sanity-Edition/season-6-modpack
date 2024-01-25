@@ -1,0 +1,17 @@
+name = "Botania-1.20.1-443-FABRIC"
+filename = "Botania-1.20.1-443-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/s3EM29A3/Botania-1.20.1-443-FABRIC.jar"
+hash = "61ead0243f024216160eaacce92639f8925a21c644cdae609b813e2190aac7b940b6e1a19ee9dd56991ec2894800f47dcf99f8f9460d00b9fe7e47ec8ad9f81e"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "botania"
+version = "s3EM29A3"

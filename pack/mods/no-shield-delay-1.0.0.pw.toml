@@ -1,0 +1,17 @@
+name = "no-shield-delay-1.0.0"
+filename = "no-shield-delay-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pOf4Y6Oo/versions/1.0.0/no-shield-delay-1.0.0.jar"
+hash = "8d0adeb550885f8856fecd12d6e7c7713b602c5c18aa6b87b6caf4961bdce94b7d89227e86f977d7cfe86678505f13bf48cd9dcc9f20986e89ed855eb2b74dca"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "no-shield-delay"
+version = "1.0.0"

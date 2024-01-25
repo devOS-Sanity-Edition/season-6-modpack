@@ -1,0 +1,17 @@
+name = "supplementaries-1.20-2.7.23-fabric"
+filename = "supplementaries-1.20-2.7.23-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/DupvKIRV/supplementaries-1.20-2.7.23-fabric.jar"
+hash = "ffc51fd40a4dd8488f4b96a796ab34dcb7b7ab7faf72c01a35692b721649270234261637d2a4f5694f0aa2de387d975a7e8666d03eb3aaeaf2f07c55179f3430"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "supplementaries"
+version = "1.20-2.7.23"
