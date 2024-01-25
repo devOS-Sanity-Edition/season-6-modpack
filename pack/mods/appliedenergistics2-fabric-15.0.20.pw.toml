@@ -1,0 +1,17 @@
+name = "appliedenergistics2-fabric-15.0.20"
+filename = "appliedenergistics2-fabric-15.0.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/3ZI8DotD/appliedenergistics2-fabric-15.0.20.jar"
+hash = "80461111b83b525731c08cd0a88676320632b28237da45146db8d689e9307a8fcbec1738e0795d2bd26241ccdfacc0fff0659462d639dadf21542bfc222bc9aa"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "ae2"
+version = "15.0.20"
