@@ -766,8 +766,23 @@ version = "xnQ3Oilt"
 
 [[mods]]
 type = "modrinth"
-id = "quickstack"
-version = "1.0.1-beta1+1.20.1"
+id = "ae2"
+version = "15.0.20"
+
+[[mods]]
+type = "modrinth"
+id = "extended-drawers"
+version = "2.1.1+mc.1.20.1"
+
+[[mods]]
+type = "modrinth"
+id = "extendeddrawersaddon"
+version = "1.0.2+1.20.1"
+
+[[mods]]
+type = "modrinth"
+id = "create-new-age"
+version = "1.1.1"
 
 [markdown]
 files = ["README.md"]
