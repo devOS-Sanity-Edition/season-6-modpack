@@ -784,6 +784,16 @@ type = "modrinth"
 id = "create-new-age"
 version = "1.1.1"
 
+[[mods]]
+type = "modrinth"
+id = "chipped"
+version = "yXxHBIer"
+
+[[mods]]
+type = "modrinth"
+id = "athena-ctm"
+version = "Jy8DnzcO"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
