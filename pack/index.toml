@@ -697,12 +697,6 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/toms_storage_fabric-1.20-1.6.5.pw.toml"
-hash = "aebd8ddc7ee123de01c4cb8c589399e6895439e3751d5c6abd76bfa9f491030c"
-metafile = true
-preserve = false
-
-[[files]]
 file = "mods/forgero-fabric-0.11.11+1.20.1.pw.toml"
 hash = "22c2fa88ce76df447990bbbb0dc2ce369c3ac36cd0b4ece2d6bd2db849686d60"
 metafile = true
@@ -913,14 +907,26 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "config/enhanced_bes.properties"
-hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
+file = "config/yigd.json"
+hash = "3250bc3336d7ddfdeb9b32259e89ab73323317d689c61ec84167662fb4ebaba3"
 metafile = false
 preserve = false
 
 [[files]]
-file = "config/yigd.json"
-hash = "3250bc3336d7ddfdeb9b32259e89ab73323317d689c61ec84167662fb4ebaba3"
+file = "config/creeperoverhaul.jsonc"
+hash = "7ed52c7f86be331882f5c94d23c4842a12b206ac40c05ec628303d087124a003"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/fabrication/features.ini"
+hash = "62865ff95409868eefb153164bf90f3f2315b2a86c17a3409a2ced8e43c4212b"
+metafile = false
+preserve = false
+
+[[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "215038223b37cd55d510b8b1940fed443273ae6951ecc4ed4159e419c1b89197"
 metafile = false
 preserve = false
 
@@ -937,38 +943,20 @@ metafile = false
 preserve = false
 
 [[files]]
-file = "config/modernfix-mixins.properties"
-hash = "f357e2afb2c0249d5083644a21d929c80b948d5ba023ff106d7a17e877b3e7b3"
-metafile = false
-preserve = false
-
-[[files]]
 file = "config/iris.properties"
 hash = "e138dce65dd415ff265058c869383e7401e8d99eba177080b98436f5f089dec5"
 metafile = false
 preserve = false
 
 [[files]]
-file = "config/fabrication/features.ini"
-hash = "62865ff95409868eefb153164bf90f3f2315b2a86c17a3409a2ced8e43c4212b"
+file = "config/modernfix-mixins.properties"
+hash = "f357e2afb2c0249d5083644a21d929c80b948d5ba023ff106d7a17e877b3e7b3"
 metafile = false
 preserve = false
 
 [[files]]
-file = "config/creeperoverhaul.jsonc"
-hash = "7ed52c7f86be331882f5c94d23c4842a12b206ac40c05ec628303d087124a003"
-metafile = false
-preserve = false
-
-[[files]]
-file = "config/customwindowtitle-client.toml"
-hash = "215038223b37cd55d510b8b1940fed443273ae6951ecc4ed4159e419c1b89197"
-metafile = false
-preserve = false
-
-[[files]]
-file = "server.properties"
-hash = "39e4258600a878bdf34cd90b0808da522992c9382be3e3d384be02dd01552f9b"
+file = "config/enhanced_bes.properties"
+hash = "afd72ae802aca42a9da7de851f21abb460daf5d50baa15c2b5de97c7141edaee"
 metafile = false
 preserve = false
 
@@ -981,5 +969,11 @@ preserve = false
 [[files]]
 file = "resources/data/ad_astra_platform/tags/items/steel_ingots.json"
 hash = "e602483ad185835bdaad93717a611f7d1e4c446a856a3f1f413e4b6901baf230"
+metafile = false
+preserve = false
+
+[[files]]
+file = "server.properties"
+hash = "39e4258600a878bdf34cd90b0808da522992c9382be3e3d384be02dd01552f9b"
 metafile = false
 preserve = false
