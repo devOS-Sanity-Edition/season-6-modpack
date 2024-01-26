@@ -697,7 +697,7 @@ asset = "magic_8_ball-${tag}+mc1.20.1.jar"
 [[mods]]
 type = "modrinth"
 id = "shenanigans-devos"
-version = "0.5.14"
+version = "0.7.23"
 
 [[mods]]
 type = "modrinth"
@@ -798,6 +798,11 @@ version = "Jy8DnzcO"
 type = "modrinth"
 id = "modelfix"
 version = "1.14"
+
+[[mods]]
+type = "modrinth"
+id = "packet-fixer"
+version = "1.2.1"
 
 [markdown]
 files = ["README.md"]
