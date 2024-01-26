@@ -1,0 +1,17 @@
+name = "shenanigans-0.7.23"
+filename = "shenanigans-0.7.23.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dyxPUdMZ/versions/ZBZKAVYh/shenanigans-0.7.23.jar"
+hash = "6f74d9aaa6d3b9613b9a66b615e68c0f4eedf4c8fc38332e16379be2ae82ded986f05b02e8326fa41812f3bfdbc9bd5a514af5b89648e341d5fb8e5d129d61d5"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "shenanigans-devos"
+version = "0.7.23"

@@ -817,8 +817,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/shenanigans-0.5.14.pw.toml"
-hash = "62b3a4960aa795c9cff4ae3089d479e5bb774898429b6852310f740d7878a0ad"
+file = "mods/shenanigans-0.7.23.pw.toml"
+hash = "bb1a28a038750215d67a8ca8a3290e8f1ae5ee8382d73112a32baeb2a07dd372"
 metafile = true
 preserve = false
 
@@ -939,6 +939,12 @@ preserve = false
 [[files]]
 file = "mods/modelfix-1.14-fabric.pw.toml"
 hash = "9cddd48981cfb275087181a3fbc45f11a1f40c0749ab8cd93156d8408abca2ff"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/PacketFixer-fabric-1.2.1-1.20.1.pw.toml"
+hash = "e38653773af4f0bc5e6a8b68c62ac5aa8ea8effbb12f755aecfed3524f6f1568"
 metafile = true
 preserve = false
 
