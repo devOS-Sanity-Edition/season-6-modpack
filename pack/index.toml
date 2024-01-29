@@ -805,8 +805,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/ad_astra-fabric-1.20.1-1.15.10.pw.toml"
-hash = "141e6307b89e7380e1ec91bc2422c65ea906465bac5c22253a999f1c5009b8f1"
+file = "mods/ad_astra-fabric-1.20.1-1.15.11.pw.toml"
+hash = "0a3878ea5eb6b885fe8afe68d829e35df435c4dd3251d90367917792955dc944"
 metafile = true
 preserve = false
 
@@ -883,8 +883,8 @@ metafile = true
 preserve = false
 
 [[files]]
-file = "mods/expansive-lighting-mc1.20.1-1.0.0+build.6.pw.toml"
-hash = "0fbebb739221a4c513363d6c94decd94a207db4ce5b7e1d5bb7962ee8aa8784b"
+file = "mods/expansive-lighting-mc1.20.1-1.0.2+build.9.pw.toml"
+hash = "73d1acac93177333bafb917447ce36958e6e6f0eab0f312d823e07017a0038d3"
 metafile = true
 preserve = false
 

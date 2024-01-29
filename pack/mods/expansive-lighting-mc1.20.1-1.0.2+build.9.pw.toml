@@ -1,0 +1,17 @@
+name = "expansive-lighting-mc1.20.1-1.0.2+build.9"
+filename = "expansive-lighting-mc1.20.1-1.0.2+build.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UhCSdvgz/versions/9KMUaGHm/expansive-lighting-mc1.20.1-1.0.2%2Bbuild.9.jar"
+hash = "7eb8699e451dacd99731e0bfe083afaa8ca52d86729d6557af59cfd105783922622af5dce0b9f775ccb551b25c49258e160c0d8ed8c622651cd48aa901d88b36"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "expansive-lighting"
+version = "9KMUaGHm"
