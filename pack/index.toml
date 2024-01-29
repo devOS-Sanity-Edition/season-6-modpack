@@ -949,6 +949,18 @@ metafile = true
 preserve = false
 
 [[files]]
+file = "mods/extra-mod-integrations-0.4.2+1.20.1.pw.toml"
+hash = "16d1d17d8ebdb72e285ebc9b3ea5b4106e919c6c66fc1713de3e1c0be2799a13"
+metafile = true
+preserve = false
+
+[[files]]
+file = "mods/ae2-emi-crafting-1.0.1.pw.toml"
+hash = "d99eff335117daadec192e37d8332283f4653cb0a5b4681b6bdb4be4edf3b396"
+metafile = true
+preserve = false
+
+[[files]]
 file = "config/yigd.json"
 hash = "3250bc3336d7ddfdeb9b32259e89ab73323317d689c61ec84167662fb4ebaba3"
 metafile = false
