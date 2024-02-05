@@ -814,6 +814,41 @@ type = "modrinth"
 id = "ae2-emi-crafting"
 version = "jHaxpD7d"
 
+[[mods]]
+type = "modrinth"
+id = "nyfs-spiders"
+version = "cmqFoINR"
+
+[[mods]]
+type = "modrinth"
+id = "applied-botanics"
+version = "j9qN58Hl"
+
+[[mods]]
+type = "modrinth"
+id = "transferable-pets"
+version = "JqI8JnXE"
+
+[[mods]]
+type = "modrinth"
+id = "create-track-map"
+version = "qoyYyg2G"
+
+[[mods]]
+type = "modrinth"
+id = "diagonal-windows"
+version = "xKu8mur6"
+
+[[mods]]
+type = "modrinth"
+id = "wandering-wizardry"
+version = "61qSvT5L"
+
+[[mods]]
+type = "modrinth"
+id = "create-deco"
+version = "TVEbvaBf"
+
 [markdown]
 files = ["README.md"]
 auto_update = true
