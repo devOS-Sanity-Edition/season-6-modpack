@@ -1,0 +1,17 @@
+name = "wwizardry-1.0.3+mc.1.20.1"
+filename = "wwizardry-1.0.3+mc.1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6eWropFc/versions/61qSvT5L/wwizardry-1.0.3%2Bmc.1.20.1.jar"
+hash = "534457ffbb296e10737b599b10af7be251da34d977568612a6291ce8ac32cb062891e52059cf38ab92595a3e828cfb158490cf82153c3577bb9b0f939fc8da6a"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "wandering-wizardry"
+version = "61qSvT5L"
